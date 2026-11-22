@@ -1,5 +1,7 @@
 # Google Chat TUI
 
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
 Early-stage Go module containing authentication and configuration packages for a
 Google Chat terminal application.
 
